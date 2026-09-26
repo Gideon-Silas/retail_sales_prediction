@@ -1,0 +1,12 @@
+# --- Required for the deployed Streamlit app ---
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+# --- Only needed for re-running the notebook / retraining ---
+# (not required by app.py, safe to remove if deploying app-only)
+matplotlib
+seaborn
+optuna
