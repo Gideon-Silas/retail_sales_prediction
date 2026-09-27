@@ -66,7 +66,7 @@ DSN_Sales_Prediction/
 │   ├── train.csv
 │   └── test.csv
 ├── notebooks/
-│   └── DSN_Sales_Prediction.ipynb
+│   └── DSN_Mart_Sales_Prediction.ipynb
 └── models/
     ├── gb_model.pkl
     ├── scaler.pkl
@@ -78,7 +78,7 @@ DSN_Sales_Prediction/
 
 1. Clone the repository
    ```
-   git clone https://github.com/<your-username>/retail_sales_prediction.git
+   git clone https://github.com/Gideon-Silas/DSN_Mart_Sales_Prediction.git
    cd DSN_Mart_Sales_Prediction
    ```
 2. Install dependencies
@@ -92,10 +92,17 @@ DSN_Sales_Prediction/
 
 ## Tools
 
-Python · pandas · scikit-learn · Streamlit · matplotlib · seaborn
+- Python
+- pandas
+- scikit-learn
+- Streamlit
+- matplotlib
+- seaborn
 
-## Author
+## Full write-up 
 
-Built as part of the DSN Bootcamp Qualification Hackathon 2026 (ML Track). Full analysis write-up: *(add your Medium link here)*
+Full analysis write-up: [Medium] (https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
 
-Built as part of the DSN Bootcamp Qualification Hackathon 2026 (ML Track). Full analysis write-up: *(add your Medium link here)*
+## Author 
+
+Connect with me on: [LinkedIn] (https://www.linkedin.com/in/gideonsilas), and [Medium] (https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
