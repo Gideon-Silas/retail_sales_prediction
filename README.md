@@ -101,8 +101,8 @@ DSN_Sales_Prediction/
 
 ## Full write-up 
 
-Full analysis write-up: [Medium] (https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
+Full analysis write-up: [Medium](https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
 
 ## Author 
 
-Connect with me on: [LinkedIn] (https://www.linkedin.com/in/gideonsilas), and [Medium] (https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gideonsilas), and [Medium](https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317)
