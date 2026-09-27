@@ -1,12 +1,7 @@
 # --- Required for the deployed Streamlit app ---
 streamlit
-pandas
-numpy
-scikit-learn
-joblib
-
-# --- Only needed for re-running the notebook / retraining ---
-# (not required by app.py, safe to remove if deploying app-only)
-matplotlib
-seaborn
-optuna
+pandas == 2.2.2
+numpy == 1.26.4
+scikit-learn == 1.5.1
+joblib == 1.4.2
+scipy == 1.13.1
