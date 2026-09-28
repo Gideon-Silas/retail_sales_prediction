@@ -9,7 +9,6 @@ import os
 # ---------------------------------------------------------------------
 st.set_page_config(
     page_title="DSN Mart Sales Prediction",
-    page_icon="🛒",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
